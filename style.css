@@ -1,0 +1,42 @@
+html {
+  background-color: rgb(145, 59, 243);
+}
+
+.home-background {
+  background-color: white;
+}
+
+h1 {
+  font-style: italic;
+  color: rgb(47, 0, 68);
+  font-size: 60px;
+}
+
+.centered-text {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;  
+}
+
+.odin-list {
+  list-style-type: none;
+  font-size: 33px;
+}
+
+img {
+  width: 26%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;    
+}
+
+.pizza-box-guy {
+  width: 15%;
+}
+
+p {
+  font-size: 21px;
+}
+
+li {
+  font-size: 18px;
+}
